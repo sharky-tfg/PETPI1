@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/core/Database.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/app/core/Database.php';
 
 class Perrito {
     private $db;

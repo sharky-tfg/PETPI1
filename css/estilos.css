@@ -136,7 +136,7 @@ p {
 .hero-impacto {
   height: 90vh;
   min-height: 600px;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/PETPI/public/img/carrousel3.jpg');
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/img/carrousel3.jpg');
   background-size: cover;
   background-position: center 30%;
   display: flex;
@@ -1762,7 +1762,7 @@ p {
   align-items: center;
   padding: 2rem 1rem;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-              url('/PETPI/public/img/fondo-perros.jpg');
+              url('/img/fondo-perros.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
