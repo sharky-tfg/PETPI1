@@ -5,7 +5,6 @@ ini_set('log_errors', 1);
 
 session_start();
 
-// El resto de tu código...
 ?>
 <?php
 // Cargar las clases necesarias
